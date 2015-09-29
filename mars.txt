@@ -1,2 +1,3 @@
-Mars is a red planet.
+Mars is a red planet, it is cold and dry.
+
 It has 2 moons.
